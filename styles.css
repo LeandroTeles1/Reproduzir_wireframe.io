@@ -1,0 +1,9 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family: "Gill Sans Extrabold", Helvetica, sans-serif;
+    background-image: url("imagens/4d845686128681.5d909dad4ddd3.jpg");
+    color: white;
+}
